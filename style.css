@@ -1,0 +1,25 @@
+#cyberbody {
+  font-family: 'Arial', arial, sans-serif;
+  font-weight: 300;
+  color: black;
+  background-image: url("../images/cyberback.jpg");
+  background-repeat: repeat-y;
+  background-size: cover;
+  padding-bottom: 15px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+  }
+
+.contact{
+  font-size: 16px;
+  text-align: left;
+}
+
+#mypic {
+  height: 150px;
+}
+
+#navpic {
